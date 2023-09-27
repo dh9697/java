@@ -1,0 +1,16 @@
+20230925
+cmd 
+java -version
+javac -version
+
+oracle java download
+windows x64 Installer
+eclipse download
+Download Packages
+enterprise web developers
+
+내pc>속성>고급시스템설정>환경변수>시스템변수>새로만들기
+변수이름  JAVA_HOME
+변수 값   C:\Program Files\JAVA\jdk-21
+변수 이름 CLASSPATH
+변수 값 %JAVA_HOME\lib <시스템 Path에 등록
