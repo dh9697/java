@@ -14,3 +14,21 @@ enterprise web developers
 변수 값   C:\Program Files\JAVA\jdk-21
 변수 이름 CLASSPATH
 변수 값 %JAVA_HOME\lib <시스템 Path에 등록
+
+20231004
+리눅스 설치
+vmware workstation player
+
+centos
+CentOS-7-x86_64-DVD-2207-02.iso 설치
+
+리눅스 자바 설치 및 환경변수
+sudo passwd root
+su -
+yum update
+
+/usr/lib/jvm/java-1.8.0-openjdk-1.8.0.382.b05-1.el7_9.x86_64/jre/bin/java
+cd etc/ 안되면
+cd /
+cd etc/
+nano profile
